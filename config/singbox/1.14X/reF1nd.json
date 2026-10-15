@@ -4,7 +4,7 @@
     {
       "tag": "JC1",
       "type": "remote",
-      "url": "此处填入订阅链接",
+      "url": "https://154.23.164.142:2096/kevincai/mj6wfeqjgi053ev8",
       "health_check": {"enabled":true,"url":"https://www.gstatic.com/generate_204","interval":"10m","timeout":"3s"},
       "exclude": "官网|剩余|流量|套餐|免费|订阅|全球直连|到期时间|GB|Expire Date|Traffic|ExpireDate",
       "http_client": "直连下载",
